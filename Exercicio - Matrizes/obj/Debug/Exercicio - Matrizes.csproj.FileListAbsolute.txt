@@ -1,0 +1,7 @@
+C:\Users\eduardo.kropniczki\source\repos\Exercicio - Matrizes\Exercicio - Matrizes\bin\Debug\Exercicio - Matrizes.exe.config
+C:\Users\eduardo.kropniczki\source\repos\Exercicio - Matrizes\Exercicio - Matrizes\bin\Debug\Exercicio - Matrizes.exe
+C:\Users\eduardo.kropniczki\source\repos\Exercicio - Matrizes\Exercicio - Matrizes\bin\Debug\Exercicio - Matrizes.pdb
+C:\Users\eduardo.kropniczki\source\repos\Exercicio - Matrizes\Exercicio - Matrizes\obj\Debug\Exercicio - Matrizes.csproj.AssemblyReference.cache
+C:\Users\eduardo.kropniczki\source\repos\Exercicio - Matrizes\Exercicio - Matrizes\obj\Debug\Exercicio - Matrizes.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.kropniczki\source\repos\Exercicio - Matrizes\Exercicio - Matrizes\obj\Debug\Exercicio - Matrizes.exe
+C:\Users\eduardo.kropniczki\source\repos\Exercicio - Matrizes\Exercicio - Matrizes\obj\Debug\Exercicio - Matrizes.pdb
